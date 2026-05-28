@@ -1,0 +1,32 @@
+aid: fun-fact
+name: Fun Fact
+description: "A simple HTTPS api that can randomly select and return a fact from the FFA database"
+url: https://api.aakhilv.me
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Entertainment"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Entertainment
+  - Public APIs
+apis:
+  - name: Fun Fact
+    description: "A simple HTTPS api that can randomly select and return a fact from the FFA database"
+    humanURL: https://api.aakhilv.me
+    baseURL: https://api.aakhilv.me
+    tags:
+      - Entertainment
+    properties:
+      - type: Documentation
+        url: https://api.aakhilv.me
+common:
+  - type: Website
+    url: https://api.aakhilv.me
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
