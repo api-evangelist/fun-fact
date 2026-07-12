@@ -23,6 +23,10 @@ apis:
       - type: Documentation
         url: https://api.aakhilv.me
 common:
+  - type: VulnerabilityDisclosure
+    url: security/fun-fact-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/fun-fact-domain-security.yml
   - type: Website
     url: https://api.aakhilv.me
   - type: PublicAPIsListing
