@@ -39,7 +39,6 @@ apis:
   - name: Fun Fact
     description: "A simple HTTPS api that can randomly select and return a fact from the FFA database"
     humanURL: https://api.aakhilv.me
-    baseURL: https://api.aakhilv.me
     tags:
       - Entertainment
     properties:
